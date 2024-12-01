@@ -20,11 +20,12 @@
 
 [![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 )](https://ubuntu.com/)
+[![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white
+)](https://www.docker.com/)
 [![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/stable/)
 [![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white
 )](https://www.python.org/)
-[![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white
-)](https://www.docker.com/)
+
 
 [![GithubPages](https://img.shields.io/badge/GITHUB_PAGES-222222?style=for-the-badge&logo=githubpages&logoColor=white
 )](https://pages.github.com/)
